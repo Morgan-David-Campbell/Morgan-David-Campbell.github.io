@@ -3,7 +3,7 @@ Testing something. What? I dunno, something.
 
 ### 360
 
-<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/morgancampbell19/the-waiting-room'></script>
+<script src="//vizor.io/static/scripts/vizor-360-embed.j" data-vizorurl="//vizor.io/embed/morgancampbell19/the-waiting-room"></script>
 
 Project Description
 
